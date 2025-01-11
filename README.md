@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://adi522.github.io/my-portfolio/](https://adi522.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://magical-maamoul-87eeb2.netlify.app/](https://magical-maamoul-87eeb2.netlify.app/)
 
 - 📫 How to reach me **adityanagmal1244@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15zlgwRUCuUJvzZX8sGZdwtD583SNaiae/view?usp=sharing](https://drive.google.com/file/d/15zlgwRUCuUJvzZX8sGZdwtD583SNaiae/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OwjYLI9-e8PvqTuKj9wWiARymcH6_V3W/view?usp=sharing](https://drive.google.com/file/d/1OwjYLI9-e8PvqTuKj9wWiARymcH6_V3W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
